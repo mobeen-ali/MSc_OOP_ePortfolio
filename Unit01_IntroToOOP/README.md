@@ -10,8 +10,6 @@ This unit introduced the core concepts of Object-Oriented Programming (OOP) in P
 ## 📁 Artefacts Included
 - `point.py`: A Python class demonstrating object instantiation and basic attribute manipulation.
 - `ide_setup_screenshot.png`: Screenshot of IDE (PyCharm) setup for Python development.
-- `discussion_post1.txt`: My contribution to the Unit 1 collaborative discussion.
-- `seminar_notes.md`: Key takeaways from the introductory seminar.
 
 ## ✅ Learning Outcomes Demonstrated
 - Defined a class and instantiated objects in Python
