@@ -10,7 +10,6 @@ This unit focused on:
 - `use_case_diagram.png`: Shows user interaction with a simple system.
 - `state_machine_diagram.png`: Describes the lifecycle of an entity in the system.
 - `employee_leave.py`: Small system to demonstrate leave booking with class methods and variable access.
-- `peer_replies.txt`: My responses to classmates’ discussion posts.
 
 ## ✅ Learning Outcomes Demonstrated
 - Designed functional and behavioral models using UML
