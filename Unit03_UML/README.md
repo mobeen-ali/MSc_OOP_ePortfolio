@@ -28,4 +28,4 @@ Key concepts explored:
 - Demonstrated the ability to model object behavior and transitions using UML diagrams
 - Recognized how different UML diagrams support various stages of the software development life cycle
 - Reflected critically on the importance of designing systems visually before implementation
-- Extended
+- Extended module learning into a professional context by applying UML diagramming to production-level system planning
