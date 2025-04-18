@@ -13,17 +13,17 @@ Key topics covered include:
 
 ## 📁 Artefacts Included
 
-### 1. Python Package – `math_utils`
-- **File:** `calculator.py`  
-- **Description:** Contains a `Calculator` class implementing basic arithmetic operations. All methods are documented using PEP 257-style docstrings.
-
-### 2. Unit Tests – `test_calculator.py`
-- **File:** `test/test_calculator.py`  
-- **Description:** Contains a full test suite for the `Calculator` class using Python’s built-in `unittest` framework. Tests include all four arithmetic operations, including divide-by-zero handling.
-
-### 3. Package Initializer – `__init__.py`
+### 1. Package Initializer – `__init__.py`
 - **File:** `math_utils/__init__.py`  
 - **Description:** Exposes the `Calculator` class as part of the package interface. Ensures clean import paths for external use.
+
+### 2. Python Package – `math_utils`
+- **File:** `math_utils/calculator.py`  
+- **Description:** Contains a `Calculator` class implementing basic arithmetic operations. All methods are documented using PEP 257-style docstrings.
+
+### 3. Unit Tests – `test_calculator.py`
+- **File:** `test/test_calculator.py`  
+- **Description:** Contains a full test suite for the `Calculator` class using Python’s built-in `unittest` framework. Tests include all four arithmetic operations, including divide-by-zero handling.
 
 ## ✅ Learning Outcomes Demonstrated
 
